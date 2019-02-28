@@ -1,0 +1,77 @@
+/* 
+===============================================
+Override Style sheet
+===============================================
+*/
+body {
+    background-image: url("../images/backgroundPattern01.png");
+    background-repeat: repeat;
+}
+
+.logo {
+    /* margin: 0;
+    padding: 21.5px 20px; */
+    color: #fff!important;
+    background-color: #4aaaa5;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    /* font-size: 1.5em; */
+    border-color: #cccccc;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-family: "Georgia", Times, Times New Roman, serif;
+}
+
+.main-container {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+}
+header {
+    margin-bottom: 80px;
+}
+
+img.photo {
+    height:250px;
+} 
+
+.figure-caption {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    bottom: 50px;
+    font-family: "Georgia", Times, Times New Roman, serif;
+}
+
+.submit-btn {
+    background-color: #4aaaa5;
+}
+
+.form-group {
+    width: 250px!important;
+}
+
+.form-input {
+    width: 100%;
+}
+
+/* 
+=========================================
+Media query sm, xs 
+=========================================
+*/
+@media screen and (max-width: 768px) {
+
+    img.photo {
+        float: none!important;
+        display: block!important;
+        margin-bottom: 10px;
+        height: 1   50px;
+        margin-left: auto!important;
+        margin-right: auto!important;
+    }
+
+    .port-img-row {
+        text-align: center!important;
+    }
+
+}

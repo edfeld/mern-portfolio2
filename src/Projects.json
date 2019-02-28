@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Word Guess",
+    "image": "assets/images/catone.jpg",
+    "projectLink": "https://edfeld.github.io/Word-Guess-Game/",
+    "altText": "A generic square placeholder a cat."
+  },
+  {
+    "id": 2,
+    "name": "RPG Game",
+    "image": "assets/images/turntable.jpg",
+    "projectLink": "https://edfeld.github.io/StarWars-RPG/",
+    "altText": "A generic square placeholder image with rounded corners in a figure."
+  },
+  {
+    "id": 3,
+    "name": "Trivia Game",
+    "image": "assets/images/transport.jpg",
+    "projectLink": "https://edfeld.github.io/TriviaGame/",
+    "altText": "Scene of cars in traffic"
+  },
+  {
+    "id": 4,
+    "name": "Take a Hike - Team Project",
+    "image": "assets/images/earbuds.jpg",
+    "projectLink": "https://pearsonj.github.io/project1/",
+    "altText": "earbuds."
+  },
+  {
+    "id": 5,
+    "name": "Crystal Collector",
+    "image": "assets/images/headphones.jpg",
+    "projectLink": "https://edfeld.github.io/unit-4-game/",
+    "altText": "Headphones"
+  },
+  {
+    "id": 6,
+    "name": "Giphy-API",
+    "image": "assets/images/motorbike.jpg",
+    "projectLink": "https://edfeld.github.io/Giphy-API/",
+    "altText": "Motorbike"
+  },
+  {
+    "id": 7,
+    "name": "Liri Node App",
+    "image": "assets/images/catone.jpg",
+    "projectLink": "https://github.com/edfeld/liri-node-app",
+    "altText": "A cat"
+  },
+  {
+    "id": 8,
+    "name": "Word Guess CLI on Github",
+    "image": "assets/images/turntable.jpg",
+    "projectLink": "https://github.com/edfeld/Word-Guess-CLI.git",
+    "altText": "A turntable"
+  },
+  {
+    "id": 9,
+    "name": "Bamazon Online Store",
+    "image": "assets/images/transport.jpg",
+    "projectLink": "https://github.com/edfeld/bamazonCustomer.git",
+    "altText": "Cars in traffic at night"
+  },
+  {
+    "id": 10,
+    "name": "Friend Finder Applicaton",
+    "image": "assets/images/earbuds.jpg",
+    "projectLink": "https://radiant-caverns-43048.herokuapp.com/",
+    "altText": "Earbuds"
+  },
+  {
+    "id": 11,
+    "name": "Eat-Da-Burger I",
+    "image": "assets/images/headphones.jpg",
+    "projectLink": "https://shielded-sands-70463.herokuapp.com/",
+    "altText": "headphones"
+  },
+  {
+    "id": 12,
+    "name": "Eat-Da-Burger Sequel",
+    "image": "assets/images/motorbike.jpg",
+    "projectLink": "https://still-beyond-23927.herokuapp.com/",
+    "altText": "motorbike"
+  },
+  {
+    "id": 13,
+    "name": "Clicky Game",
+    "image": "assets/images/catone.jpg",
+    "projectLink": "https://edfeld.github.io/clicky-game/",
+    "altText": "a cat"
+  },
+  {
+    "id": 14,
+    "name": "Google React Book Search",
+    "image": "assets/images/turntable.jpg",
+    "projectLink": "https://nytgooglebook.herokuapp.com/",
+    "altText": "turntable"
+  },
+  {
+    "id": 15,
+    "name": "Elevate Debate",
+    "image": "assets/images/ElevateDebate.jpg",
+    "projectLink": "http://pacific-garden-47429.herokuapp.com/",
+    "altText": "Elevate Debate website Thumbnail"
+  }
+]
