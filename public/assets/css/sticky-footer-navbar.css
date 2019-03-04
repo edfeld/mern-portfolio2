@@ -10,7 +10,7 @@ html {
   }
   .footer {
     position: absolute;
-    bottom: 0;
+    bottom: -28px;
     width: 100%;
     font-size: 0.65em;
     /* Set the fixed height of the footer here */
