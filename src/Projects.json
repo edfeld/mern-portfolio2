@@ -143,12 +143,12 @@
   {
     "id": 14,
     "name": "Google React Book Search",
-    "summary": "",
-    "image": "assets/images/turntable.jpg",
+    "summary": "A search Site for books written with Mongo, Express, Node, React",
+    "image": "assets/images/nytgooglebook240x170.png",
     "projectLink": "https://nytgooglebook.herokuapp.com/",
     "githubLink": "",
-    "altText": "turntable",
-    "isHide": 1,
+    "altText": "Image of Google Rect Book",
+    "isHide": 0,
     "Notes": ""
   },
   {
