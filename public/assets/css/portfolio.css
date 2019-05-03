@@ -73,6 +73,22 @@ img.photo {
     
     /* width: 315px; */
 }
+
+.email-form {
+    margin: 5px 0 5px 0;
+}
+
+.email-text-area {
+    resize:  none!important;
+    height: 30px!important;
+    padding-left: 3px!important;
+}
+
+.email-button{
+    background-color:  #4aaaa5;
+    border-radius: 5px; 
+}
+
 /* 
 =========================================
 Media query sm, xs 
