@@ -41,10 +41,6 @@ constructor() {
     this.setState ({navSelection : selection || 'Home' })  // if selection is falsey set to 'Home'
   }
 
-  goContact = (props) => {
-    return (<Contact {...props.email} />)
-  }
-
   render() {
     return (
       <Router>
