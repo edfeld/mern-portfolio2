@@ -9,24 +9,6 @@ import Contact from './pages/Contact'
 import NoMatch from './pages/NoMatch'
 
 
-
-// const App = () => {
-//   const email="edfeld1@gmail.com"
-//   return(
-//     <div>
-//       <NavBar />
-//       <Switch>
-//         <Route exact path="/" component={About} />
-//         <Route exact path="/Portfolio" component={Portfolio} />
-//         <Route exact path="/Contact" 
-//           render={props => <Contact Email={email} />} />
-//           <Route component={NoMatch} />
-//       </Switch>
-//       <Footer />
-//     </div>
-//   )
-// }
-
 class App extends Component {
 constructor() {
   super()
