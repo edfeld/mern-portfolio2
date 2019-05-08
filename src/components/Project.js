@@ -15,15 +15,15 @@ import React from "react"
 
 function Project (props) {
     return (
-        <div key={props.projectItem.id} className="project card border-secondary rounded mb-2 mx-2 float-left">
-            <div className="container rounded-top bg-light px-2"><img class="card-img-top rounded-0"
+        <div key={props.projectItem.id} className="project card border-secondary rounded mb-4 mx-2 float-left" data-aos="fade-up">
+            <div className="container pic-container px-2"><img class="card-img-top rounded-0"
                     src={props.projectItem.image} alt={props.projectItem.altText}></img>
             </div>
             <div className="card-body border-top">
                 <h5 className="card-title">{props.projectItem.name}</h5>
                 <p className="card-text">{props.projectItem.summary}.</p>
             </div>
-            <div className="card-footer clearfix">
+            <div className="card-footer py-2 clearfix">
                 <a href={props.projectItem.projectLink} className="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-code"></i> Project Link</a>
 
                 <a href={props.projectItem.githubLink} className="card-link float-right" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i> GitHub</a>

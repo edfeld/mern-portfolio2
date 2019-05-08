@@ -132,7 +132,7 @@
   {
     "id": 13,
     "name": "Clicky Game",
-    "summary": "A memory game written with React, Express, Node.",
+    "summary": "A memory game written with React, Express, Node",
     "image": "assets/images/ClickyGame240x170.png",
     "projectLink": "https://edfeld.github.io/clicky-game/",
     "githubLink": "https://github.com/edfeld/clicky-game",
@@ -154,7 +154,7 @@
   {
     "id": 15,
     "name": "Elevate Debate",
-    "summary": "A site for debate written with MySQL, Express, React, Node, Passport, Socket.io",
+    "summary": "A debate site written with MySQL, Express, React, Node, Passport, Socket.io",
     "image": "assets/images/ElevateDebate.jpg",
     "projectLink": "http://pacific-garden-47429.herokuapp.com/",
     "githubLink": "https://github.com/edfeld/project3-jell",

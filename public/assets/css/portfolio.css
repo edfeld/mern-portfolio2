@@ -4,8 +4,9 @@ Override Style sheet
 ===============================================
 */
 body {
-    background-image: url("../images/backgroundPattern01.png");
-    background-repeat: repeat;
+    /* background-image: url("../images/backgroundPattern01.png");
+    background-repeat: repeat; */
+    background-color: lightgray
 }
 
 .logo {
@@ -13,20 +14,29 @@ body {
     padding: 21.5px 20px; */
     color: #fff!important;
     background-color: #4aaaa5;
-    font-family: "Georgia", Times, Times New Roman, serif;
+    /* font-family: "Georgia", Times, Times New Roman, serif; */
+    font-family: 'Cabin', sans-serif;
+    font-size: 2.0rem;
     /* font-size: 1.5em; */
     border-color: #cccccc;
 }
 
 h1 {
     color: #4aaaa5;
-    font-family: "Georgia", Times, Times New Roman, serif;
+    font-family: 'Cabin', sans-serif;
+    /* font-family: "Georgia", Times, Times New Roman, serif; */
 }
 
 .main-container {
     background-color: #ffffff;
     border: 1px solid #dddddd;
     margin-bottom: 86px !important;
+    margin-top: 96px;
+}
+
+.pic-container {
+    background-color: gray; /* For browsers that do not support gradients */
+    background-image: radial-gradient(white, gray); /* Standard syntax (must be last) */
 }
 header {
     margin-bottom: 80px;
@@ -56,16 +66,18 @@ img.photo {
 }
 
 .project {
-    transition: 0.3s;
-    width: 350px;
-    padding-left: 1px;
-    padding-right: 1px;
-    height: 432px;
+    width: 370px;
+    height: 402px;
+    padding-left:  0.003rem;
+    padding-right: 0.003rem;
+    /* overflow: hidden; */
+    transition: all 3.0s ease-in-out; /* this transition doesn't work cuz the projects are created dynamically  */
 }
 
 .project:hover {
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.22);
-    border: 1px solid #b9b9b9;
+    box-shadow: 2px 4px 2px 0 rgba(0,0,0,0.22);
+    border: 1px solid black; /* #b9b9b9; */
+    /* width: 350px;    */
 }
 
 .card-img-top {
@@ -74,6 +86,13 @@ img.photo {
     /* width: 315px; */
 }
 
+.card-title {
+    margin-bottom: .25rem;
+}
+
+.card-body {
+    padding: 1.00rem !important;
+}
 .email-form {
     margin: 5px 0 5px 0;
 }

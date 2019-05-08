@@ -19,13 +19,13 @@ function Portfolio () {
     // })
 
     return (
-        <div>
-            <div className="container main-container col-12 col-md-10 offset-md-1 clearfix mt-3">
+        <div className="container-parent">
+            <div className="container main-container col-12 col-md-11 clearfix">
                 <div className="row">
                     <div className="col-md-12 col-12  m-2">
                         <h1 className="border-bottom border-secondary" >Portfolio</h1>
                     </div>
-                </div>    
+                </div>   
                 <div className="row port-img-row ml-auto mr-auto">
                     <div>
                         {projectsMap}
