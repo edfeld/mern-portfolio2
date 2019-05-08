@@ -1,5 +1,38 @@
 [
   {
+    "id": 12,
+    "name": "Eat-Da-Burger Sequel",
+    "summary": "A restaurant app built with Node, Express, handlebars, Sequelize & MySQL",
+    "image": "assets/images/Burger_Eat1.png",
+    "projectLink": "https://still-beyond-23927.herokuapp.com/",
+    "githubLink": "https://github.com/edfeld/sequelizedBurger",
+    "altText": "Image of the Eat-Da-Burger II App",
+    "isHide": 0,
+    "Notes": ""
+  },
+  {
+    "id": 13,
+    "name": "Clicky Game",
+    "summary": "A memory game written with React, Express, Node",
+    "image": "assets/images/ClickyGame240x170.png",
+    "projectLink": "https://edfeld.github.io/clicky-game/",
+    "githubLink": "https://github.com/edfeld/clicky-game",
+    "altText": "Image of the Clicky Game",
+    "isHide": 0,
+    "Notes": ""
+  },
+  {
+    "id": 15,
+    "name": "Elevate Debate",
+    "summary": "A debate site written with MySQL, Express, React, Node, Passport, Socket.io",
+    "image": "assets/images/ElevateDebate.jpg",
+    "projectLink": "http://pacific-garden-47429.herokuapp.com/",
+    "githubLink": "https://github.com/edfeld/project3-jell",
+    "altText": "Screen shot of Elevate Debate website",
+    "isHide": 0,
+    "Notes": ""
+  },
+  {
     "id": 1,
     "name": "Word Guess",
     "summary": "A guessing game built with HTML, CSS, JavaScript and jQuery",
@@ -119,28 +152,6 @@
     "Notes": ""
   },
   {
-    "id": 12,
-    "name": "Eat-Da-Burger Sequel",
-    "summary": "A restaurant app built with Node, Express, handlebars, Sequelize & MySQL",
-    "image": "assets/images/Burger_Eat1.png",
-    "projectLink": "https://still-beyond-23927.herokuapp.com/",
-    "githubLink": "https://github.com/edfeld/sequelizedBurger",
-    "altText": "Image of the Eat-Da-Burger II App",
-    "isHide": 0,
-    "Notes": ""
-  },
-  {
-    "id": 13,
-    "name": "Clicky Game",
-    "summary": "A memory game written with React, Express, Node",
-    "image": "assets/images/ClickyGame240x170.png",
-    "projectLink": "https://edfeld.github.io/clicky-game/",
-    "githubLink": "https://github.com/edfeld/clicky-game",
-    "altText": "Image of the Clicky Game",
-    "isHide": 0,
-    "Notes": ""
-  },
-  {
     "id": 14,
     "name": "Google React Book Search",
     "summary": "A search Site for books written with Mongo, Express, Node, React",
@@ -149,17 +160,6 @@
     "githubLink": "",
     "altText": "Image of Google Rect Book",
     "isHide": 1,
-    "Notes": ""
-  },
-  {
-    "id": 15,
-    "name": "Elevate Debate",
-    "summary": "A debate site written with MySQL, Express, React, Node, Passport, Socket.io",
-    "image": "assets/images/ElevateDebate.jpg",
-    "projectLink": "http://pacific-garden-47429.herokuapp.com/",
-    "githubLink": "https://github.com/edfeld/project3-jell",
-    "altText": "Screen shot of Elevate Debate website",
-    "isHide": 0,
     "Notes": ""
   }
 ]
