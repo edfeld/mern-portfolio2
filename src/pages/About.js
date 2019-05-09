@@ -13,7 +13,7 @@ function About () {
                         <div className="col-md-12 col-12 pr-4 text-justify">
                             <h2 className="text-center">Full Stack Web Developer</h2>
                             <img className="photo mt-0 mr-3 mb-3 float-left" src="assets/images/EdShot311x311.png" alt="My mugshot"/>
-                            I am a full stack developer with a broad range of software development experience. I really enjoy learning new things. I have recently graduating from the UW coding bootcamp where I have been honing my web development skills in javascript, and the MERN stack.
+                            I am a full stack developer with a broad range of software development experience. I really enjoy learning new things. I have recently graduated from the UW coding bootcamp where I have been honing my web development skills in javascript, and the MERN stack.
                             <br/>
                             <br/>
                             My last position was with a health care service organization.  My business unit supported a tobacco cessation program.  I worked as a software developer on the customer relationship management system that support the cessation program. The program was primarily driven through phone based coaching and online learning. I am deeply grateful for having been part of a business that impacted so many lives.
